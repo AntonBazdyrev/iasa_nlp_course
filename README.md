@@ -49,30 +49,65 @@ jupyter lab --port 7766
 
 # Content 
 
-1. [x] Структура та структурні елементи постановки ML задачі. Формалізація бізнес задач. Основні задачі й методи в сфері Обробки природних мов 
-    - Author: Sydorskyi Volodymyr
-    - Recording: https://drive.google.com/drive/folders/166r0s2p8Exc7Fucs3XFkHPuQaHB3LDAQ?usp=drive_link
-2. [x] Представлення природніх мов в машинному вигляді. Класичні та нейронні алгоритми векторизації. Класичні ML підходи в NLP 
-    - Author: Yelisieiev Vladyslav
-    - Recording: https://drive.google.com/drive/folders/1ZShCNBmnlQrvsReLdMfAy8k6oLkDK9jT?usp=drive_link
-3. [x] Основні метрики в NLP (обробка природніх мов). Побудова оцінки підходів і моделей в NLP - валідація
-    - Author: Bazdyrev Anton
-    - Recording: https://drive.google.com/drive/folders/1Ee-RTDhgxWCa8MPpyI29j7CIJF0t6x6s?usp=drive_link
-4. [x] Підходи з використанням архітектур RNN/GRU/LSTM
-    - Author: Sydorskyi Volodymyr
-    - Recording: https://drive.google.com/drive/folders/1SMGWOdwuBeN69DcGv_jbdV0zzftYAIx4?usp=drive_link
-5. [x] Підходи з використанням архітектури Transformer  
-    - Author: Bazdyrev Anton
-    - Recording: https://drive.google.com/drive/folders/1hpdbO4ElfSt44c5MHuT-b0fhgKDSVCou?usp=drive_link
-6. [x] Генеративні задачі: машинний переклад, сумаризація тексту, умовна та безумовна текстова генерація, розгляд GPT архітектури
-    - Author: Yelisieiev Vladyslav
-    - Recording: https://drive.google.com/drive/folders/1uWAWtQzOaGvpkdzWWPs5YXM-T7rjLayG?usp=drive_link
-7. [x] Задача кластеризації. Задача моделювання тем
-    - Author: Sydorskyi Volodymyr
-    - Recording: https://drive.google.com/drive/folders/1lLx7zBQ1GnoJHP02vGaoGehaRJfG6Lwa?usp=drive_link
-8. [x] MLOps - розгортання моделей 
-    - Author: Bazdyrev Anton
-    - Recording: https://drive.google.com/drive/folders/1TUsONxXg-RaCVuSPd5CPSsiPnqz6Nbbg?usp=drive_link
+# NLP та ML: Навчальний Курс
+
+Цей репозиторій містить навчальні матеріали, розділені на чотири модулі.
+
+## Модуль 1: Вступ до NLP / Класичні ML підходи
+
+- **1. Постановка ML задач:**  
+  - Структура та структурні елементи постановки ML задачі  
+  - Формалізація бізнес задач  
+  - Основні задачі й методи в сфері Обробки природних мов
+
+- **2. Представлення мов:**  
+  - Представлення природних мов в машинному вигляді  
+  - Класичні та нейронні алгоритми векторизації  
+  - Класичні ML підходи в NLP
+
+- **3. Оцінка моделей:**  
+  - Основні метрики  
+  - Побудова оцінки підходів і моделей – валідація (Спільна з аудіо-курсом)
+
+- **4. Основи PyTorch (Спільна з аудіо-курсом)**
+
+  
+- **5. Фреймворк Lightnin, Рекурентні нейронні мережі**
+
+## Модуль 2: Глибокі мережі
+
+- **1. Трансформери та енкодери:**  
+  - Архітектура трансформер  
+  - Використання енкодерів для задачі класифікації на NER
+
+- **2. Кластеризація та тематичне моделювання:**  
+  - Задача кластеризації  
+  - Задача моделювання тем
+
+- **3. Генеративні задачі:**  
+  - Машинний переклад  
+  - Сумаризація тексту  
+  - Умовна та безумовна текстова генерація
+
+- **4. LLM. Оптимізація ефективності використання: QLoRA, Flash-Attention, KV-Cache**
+
+- **5. LLM. RLHF, DPO finetuning.**
+
+## Модуль 3: RAG (Retrieval Augmented Generation)
+
+- **1. Векторний пошук**
+
+- **2. Retrieval: sparse and dense retrieval, embedding models finetuning**
+
+- **RAG пайплайн:**  
+  - Побудова повного RAG пайплайну
+
+## Модуль 4: Операціоналізація NLP рішень
+
+- **Основи MLOps**  
+
+- **Agentic AI**
+
 
 # Use Kaggle or Colab for computations
 
