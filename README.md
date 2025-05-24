@@ -99,14 +99,14 @@ jupyter lab --port 7766
 
 - **2. Retrieval: sparse and dense retrieval, embedding models finetuning**
 
-- **RAG пайплайн:**  
+- **3. RAG пайплайн:**  
   - Побудова повного RAG пайплайну
 
 ## Модуль 4: Операціоналізація NLP рішень
 
-- **Основи MLOps**  
+- **1. Основи MLOps**  
 
-- **Agentic AI**
+- **2. Modern LLM tools and Agentic AI**
 
 
 # Use Kaggle or Colab for computations
